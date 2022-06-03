@@ -20,7 +20,7 @@
     "@abandonware/i2c": "0.2.4-0",
     "extend": "3.0.2",
     "geomagnetism": "0.0.2",
-    "sleep": "3.0.0"
+    "sleep": "6.3.0"
   },
   "author": "BENKHADRA Hocine",
   "license": "MIT",
